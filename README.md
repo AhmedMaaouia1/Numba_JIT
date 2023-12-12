@@ -8,8 +8,9 @@ Ce code démontre l'utilisation de Numba JIT pour optimiser le calcul de la moye
 ## Utilisation
 
 1. Assurez-vous d'avoir Python installé sur votre machine.
+
 2. Installez les dépendances avec `pip install numba numpy`.
-3. Exécutez le script `NumbaOptimization.py`.
+3. Exécutez le script `NumbaTest.py`.
 
 ```bash
 python NumbaOptimization.py
